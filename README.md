@@ -1,4 +1,4 @@
-# weather-app
+# Weather-app
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: ANUPAM TIWARI
